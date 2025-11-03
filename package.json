@@ -1,0 +1,12 @@
+{
+  "name": "daily-github-commits",
+  "version": "1.0.0",
+  "description": "Automated daily GitHub contributions with random quotes and facts",
+  "main": "commit.js",
+  "scripts": {
+    "commit": "node commit.js"
+  },
+  "keywords": ["github", "automation", "daily-commits"],
+  "author": "",
+  "license": "MIT"
+}

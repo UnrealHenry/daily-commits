@@ -1,0 +1,39 @@
+name: Daily Commit
+
+on:
+  schedule:
+    # Runs every day at 9:00 AM UTC (adjust as needed)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Generate daily content
+        run: node commit.js
+
+      - name: Configure git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git diff --staged --quiet || git commit -m "Daily update: $(date +'%Y-%m-%d')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
