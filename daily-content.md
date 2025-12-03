@@ -4,6 +4,13 @@ Automatically generated daily content.
 
 ---
 
+### 2025-12-03 at 09:18 AM UTC
+
+**Fact of the Day:**
+The unicorn is the national animal of Scotland.
+
+---
+
 ### 2025-12-02 at 09:20 AM UTC
 
 **Fact of the Day:**
