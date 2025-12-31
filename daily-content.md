@@ -4,6 +4,13 @@ Automatically generated daily content.
 
 ---
 
+### 2025-12-31 at 09:18 AM UTC
+
+**Fact of the Day:**
+Wombat poop is cube-shaped.
+
+---
+
 ### 2025-12-30 at 09:19 AM UTC
 
 **Fact of the Day:**
