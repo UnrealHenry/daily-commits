@@ -4,6 +4,13 @@ Automatically generated daily content.
 
 ---
 
+### 2026-01-13 at 09:22 AM UTC
+
+**Fact of the Day:**
+The shortest war in history lasted 38 minutes between Britain and Zanzibar in 1896.
+
+---
+
 ### 2026-01-12 at 09:26 AM UTC
 
 **Fact of the Day:**
