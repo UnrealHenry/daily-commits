@@ -4,6 +4,13 @@ Automatically generated daily content.
 
 ---
 
+### 2026-01-21 at 09:26 AM UTC
+
+**Fact of the Day:**
+A group of flamingos is called a 'flamboyance'.
+
+---
+
 ### 2026-01-20 at 09:27 AM UTC
 
 **Fact of the Day:**
