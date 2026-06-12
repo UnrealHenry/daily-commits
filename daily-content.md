@@ -4,6 +4,13 @@ Automatically generated daily content.
 
 ---
 
+### 2026-06-12 at 12:12 PM UTC
+
+**Fact of the Day:**
+Octopuses have three hearts and blue blood.
+
+---
+
 ### 2026-06-11 at 12:37 PM UTC
 
 **Fact of the Day:**
