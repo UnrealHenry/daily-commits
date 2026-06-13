@@ -4,6 +4,13 @@ Automatically generated daily content.
 
 ---
 
+### 2026-06-13 at 11:09 AM UTC
+
+**Fact of the Day:**
+The dot over the letter 'i' is called a tittle.
+
+---
+
 ### 2026-06-12 at 12:12 PM UTC
 
 **Fact of the Day:**
