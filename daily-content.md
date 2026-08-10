@@ -4,6 +4,13 @@ Automatically generated daily content.
 
 ---
 
+### 2026-08-10 at 10:10 AM UTC
+
+**Fact of the Day:**
+A day on Venus is longer than its year. Venus takes 243 Earth days to rotate once, but only 225 Earth days to orbit the Sun.
+
+---
+
 ### 2026-08-09 at 09:31 AM UTC
 
 **Fact of the Day:**
