@@ -4,6 +4,13 @@ Automatically generated daily content.
 
 ---
 
+### 2026-09-06 at 12:30 PM UTC
+
+**Fact of the Day:**
+Sharks existed before trees. Sharks have been around for about 400 million years, while trees evolved around 350 million years ago.
+
+---
+
 ### 2026-09-05 at 12:15 PM UTC
 
 **Fact of the Day:**
